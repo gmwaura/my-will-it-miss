@@ -8,7 +8,7 @@
     "build": "npm run test && parcel build src/index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "gm ongit",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.27.2",
